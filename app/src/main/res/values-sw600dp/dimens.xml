@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="screen_horizontal_padding">28dp</dimen>
+    <dimen name="resistor_view_height">140dp</dimen>
+    <integer name="color_grid_columns">4</integer>
+</resources>

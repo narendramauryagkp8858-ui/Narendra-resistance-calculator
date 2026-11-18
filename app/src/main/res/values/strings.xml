@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Narendra Resistance Calculator</string>
+    <string name="toolbar_subtitle">Offline IEC 60062 Color Code Tool</string>
+
+    <string name="action_guide">Guide</string>
+    <string name="action_reset">Reset</string>
+    <string name="action_theme">Switch theme</string>
+
+    <string name="band_count_label">Resistor Band Count</string>
+    <string name="band_3">3 Band</string>
+    <string name="band_4">4 Band</string>
+    <string name="band_5">5 Band</string>
+    <string name="band_6">6 Band</string>
+
+    <string name="resistor_diagram_hint">Tap any band on the resistor or below to change its color</string>
+    <string name="resistor_body_carbon">Carbon / Standard Film</string>
+    <string name="resistor_body_precision">Precision Metal Film</string>
+
+    <string name="result_label">Calculated Resistance</string>
+    <string name="unit_ohms_label">Ohms (Ω)</string>
+    <string name="unit_kilo_ohms_label">Kilo-ohms (KΩ)</string>
+    <string name="unit_mega_ohms_label">Mega-ohms (MΩ)</string>
+    <string name="tolerance_label">Tolerance</string>
+    <string name="min_resistance_label">Min Resistance</string>
+    <string name="max_resistance_label">Max Resistance</string>
+    <string name="temp_coeff_label">Temp. Coefficient</string>
+    <string name="temp_coeff_unit_format">%1$d ppm/K</string>
+    <string name="tolerance_format">±%1$s%%</string>
+    <string name="invalid_selection_title">Invalid Band Selection</string>
+
+    <string name="editing_band_format">Editing: %1$s</string>
+    <string name="choose_dropdown_hint">Tap dropdown</string>
+    <string name="not_applicable">N/A</string>
+
+    <string name="role_digit_1">1st Digit</string>
+    <string name="role_digit_2">2nd Digit</string>
+    <string name="role_digit_3">3rd Digit</string>
+    <string name="role_multiplier">Multiplier</string>
+    <string name="role_tolerance">Tolerance</string>
+    <string name="role_temp_coeff">Temp Coeff</string>
+
+    <string name="color_black">Black</string>
+    <string name="color_brown">Brown</string>
+    <string name="color_red">Red</string>
+    <string name="color_orange">Orange</string>
+    <string name="color_yellow">Yellow</string>
+    <string name="color_green">Green</string>
+    <string name="color_blue">Blue</string>
+    <string name="color_violet">Violet</string>
+    <string name="color_grey">Grey</string>
+    <string name="color_white">White</string>
+    <string name="color_gold">Gold</string>
+    <string name="color_silver">Silver</string>
+
+    <string name="reset_toast">Bands reset to default values</string>
+    <string name="theme_light_desc">Light theme</string>
+    <string name="theme_dark_desc">Dark theme</string>
+    <string name="theme_system_desc">System theme</string>
+
+    <string name="guide_card_title">Need help reading resistor bands?</string>
+    <string name="guide_card_subtitle">View 3/4/5/6-band formulas, memory trick, and complete color chart</string>
+    <string name="open_guide_button">Open Color Code Guide</string>
+
+    <string name="guide_sheet_title">Resistor Color Code Guide</string>
+    <string name="guide_sheet_close">Close guide</string>
+    <string name="guide_how_to_title">How to Read Axial Resistors</string>
+    <string name="guide_how_to_body">Hold the resistor so the tolerance band (usually Gold, Silver, or separated by a wider gap) is on the right. Read the remaining bands from left to right.</string>
+    <string name="guide_rules_title">Band Calculation Formulas</string>
+    <string name="guide_rules_body">• 3-Band: (D1 D2) × Multiplier  (±20% default)\n• 4-Band: (D1 D2) × Multiplier ± Tolerance\n• 5-Band: (D1 D2 D3) × Multiplier ± Tolerance\n• 6-Band: (D1 D2 D3) × Multiplier ± Tolerance, TCR (ppm/K)</string>
+    <string name="guide_mnemonic_title">Easy Memory Trick</string>
+    <string name="guide_mnemonic_body">"BB ROY of Great Britain had a Very Good Wife"\nBlack (0), Brown (1), Red (2), Orange (3), Yellow (4), Green (5), Blue (6), Violet (7), Grey (8), White (9)</string>
+    <string name="guide_table_title">Complete IEC 60062 Color Reference</string>
+    <string name="guide_col_color">Color</string>
+    <string name="guide_col_digit">Digit</string>
+    <string name="guide_col_mult">Mult</string>
+    <string name="guide_col_tol">Tol</string>
+    <string name="guide_col_tcr">ppm/K</string>
+</resources>

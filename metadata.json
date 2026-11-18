@@ -1,0 +1,6 @@
+{
+  "name": "Narendra Resistance Calculator",
+  "description": "Offline 3, 4, 5, and 6-band resistor color code calculator with interactive resistor diagram, tolerance min/max range, temperature coefficient, and educational guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

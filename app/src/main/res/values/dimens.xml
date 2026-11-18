@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="screen_horizontal_padding">16dp</dimen>
+    <dimen name="card_corner_radius">20dp</dimen>
+    <dimen name="swatch_corner_radius">14dp</dimen>
+    <dimen name="resistor_view_height">116dp</dimen>
+    <integer name="color_grid_columns">3</integer>
+</resources>

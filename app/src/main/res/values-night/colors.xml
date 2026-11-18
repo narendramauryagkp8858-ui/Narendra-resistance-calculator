@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand & Precision Workbench Dark Palette -->
+    <color name="md_theme_primary">#38BDF8</color>
+    <color name="md_theme_onPrimary">#082F49</color>
+    <color name="md_theme_primaryContainer">#0C4A6E</color>
+    <color name="md_theme_onPrimaryContainer">#E0F2FE</color>
+
+    <color name="md_theme_secondary">#FBBF24</color>
+    <color name="md_theme_onSecondary">#451A03</color>
+    <color name="md_theme_secondaryContainer">#78350F</color>
+    <color name="md_theme_onSecondaryContainer">#FEF3C7</color>
+
+    <color name="md_theme_tertiary">#2DD4BF</color>
+    <color name="md_theme_onTertiary">#042F2E</color>
+    <color name="md_theme_tertiaryContainer">#115E59</color>
+    <color name="md_theme_onTertiaryContainer">#CCFBF1</color>
+
+    <color name="md_theme_background">#090E1A</color>
+    <color name="md_theme_onBackground">#F1F5F9</color>
+    <color name="md_theme_surface">#111827</color>
+    <color name="md_theme_onSurface">#F8FAFC</color>
+    <color name="md_theme_surfaceVariant">#1E293B</color>
+    <color name="md_theme_onSurfaceVariant">#94A3B8</color>
+    <color name="md_theme_surfaceContainer">#162033</color>
+    <color name="md_theme_surfaceContainerHigh">#1E293B</color>
+    <color name="md_theme_outline">#334155</color>
+    <color name="md_theme_outlineVariant">#1E293B</color>
+
+    <color name="md_theme_error">#F87171</color>
+    <color name="md_theme_onError">#450A0A</color>
+    <color name="md_theme_errorContainer">#7F1D1D</color>
+    <color name="md_theme_onErrorContainer">#FEE2E2</color>
+
+    <color name="warning_container">#451A03</color>
+    <color name="on_warning_container">#FDE68A</color>
+    <color name="resistor_stage_bg">#0F172A</color>
+    <color name="resistor_stage_grid">#1E293B</color>
+</resources>
